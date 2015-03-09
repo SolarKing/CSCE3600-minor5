@@ -25,7 +25,7 @@ int main(int argc, char const *argv[])
 
   printf("x: %d, y: %d\n", x, y);
 
-  // create a thread handles
+  // create thread handles
   pthread_t threadX;
   pthread_t threadY;
 
